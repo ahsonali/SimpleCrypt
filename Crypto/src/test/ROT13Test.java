@@ -6,7 +6,8 @@ public class ROT13Test {
 
 
     @Test
-    public void rotateStringTest0() {
+    public void rotateStringTest0()
+    {
         // Given
         String s1 = "ABCDEF";
         String s2 = "ABCDEF";
